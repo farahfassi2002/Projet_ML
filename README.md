@@ -9,7 +9,7 @@ Comment estimer le risque d'exposition à la dégradation des bâtiments histori
 
 Construire un **Indice de Risque d'Exposition (IRE)** et un modèle de machine learning capable de classifier les bâtiments selon leur niveau de risque : **Stable**, **Élevé** ou **Critique**.
 
-## 📁 Structure du projet
+##  Structure du projet
 
 **Niveaux de risque :**
 | Catégorie | Score IRE |
@@ -95,7 +95,7 @@ Une carte Folium a été générée (`carte_risque_finale.html`) permettant de v
 | Matplotlib/Seaborn | Visualisations |
 | OSMnx | Collecte OpenStreetMap |
 
-## 🚀 Exécution du projet
+##  Exécution du projet
 
 ### Prérequis
 ```bash
